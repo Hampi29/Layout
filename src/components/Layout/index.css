@@ -1,0 +1,11 @@
+/* Write your CSS here */
+.layout {
+  height: 70vh;
+  width: 100vw;
+  padding: 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  flex-grow: 1;
+}

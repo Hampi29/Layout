@@ -1,0 +1,29 @@
+/* Write your CSS here */
+.body-container {
+  display: flex;
+  width: 70vw;
+  height: 70vh;
+  color: #475569;
+}
+.navbar-container {
+  background-color: #cbd5e1;
+
+  padding: 20px;
+  margin-right: 5px;
+}
+.leftnav-list {
+  list-style-type: none;
+}
+.content-container {
+  background-color: #e2e8f0;
+  padding: 20px;
+  margin-right: 5px;
+}
+.box-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100px;
+  width: 100px;
+  border: #475569 solid 2px;
+}
